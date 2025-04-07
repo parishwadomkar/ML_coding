@@ -40,5 +40,6 @@ Contributions are welcome. Please fork the repository and create a pull request 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Final Remarks
-This repository is intended to be both a learning tool and a reference for implementing diverse AI algorithms. The code is structured to emphasize clarity and modularity, ensuring that each module can be easily extended or integrated into larger projects. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+
+*This repository is intended to be both a learning tool and a reference for implementing diverse AI algorithms. The code is structured to emphasize clarity and modularity, ensuring that each module can be easily extended or integrated into larger projects. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.*
