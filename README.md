@@ -1,4 +1,4 @@
-# ML_coding
+# End-to-end ML algorithms and implementations
 
 This repository contains base (no packages used) machine learning and AI algorithms implemented in Jupyter notebooks.
 
